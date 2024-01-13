@@ -36,4 +36,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for exploring **Move It**! If you have any questions or feedback related to the study project, feel free to reach out. Happy coding!
+Thank you for exploring **Move It**! If you have any questions or feedback related to the study project, feel free to reach out. Happy coding!![Uploading screencapture-127-0-0-1-5502-index-html-2024-01-13-01_03_41.png…]()
+
+![screencapture-127-0-0-1-5502-index-html-2024-01-13-01_11_12](https://github.com/Yagoaguiar/PickerSite/assets/95005910/b9fed5f3-b958-47af-8cc3-345954a67d9a)
